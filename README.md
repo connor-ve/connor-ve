@@ -1,6 +1,6 @@
 # 👋 Welcome! ![Profile View Counter](https://komarev.com/ghpvc/?username=crvanetten15)
 
-My Name is Connor Van Etten. I am based in Cleveland, Ohio.
+My Name is [Connor Van Etten](codingwithconnor.com). I am based in Cleveland, Ohio.
 
 I'm a Cloud Engineer, Web Developer, aspiring Mobile App Developer and a Computer Scientist, focused on expanding my knowledge within programming.
 
