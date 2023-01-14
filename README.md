@@ -13,7 +13,7 @@ connor = {
 }
 ```
 
-![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crvanetten15&show_icons=true)
+![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crvanetten15)
 
 ## - 💼 My Job
 
