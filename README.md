@@ -1,4 +1,5 @@
-# 👋 Welcome! 
+# 👋 Welcome!
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=crvanetten15)
 
 <p align="center">
@@ -7,11 +8,11 @@
 
 ---
 
-## 👩‍💻 Software Engineer | 🌐 Web Developer | 🚀 Tech Enthusiast
+## 👩‍💻 Software Engineer | 🌐 Application Developer | 🚀 Tech Enthusiast
 
 My name is Connor Van Etten and I am an Software Engineer based out of Cleveland, Ohio. Currently I work as an Application Developer and a Freelance Software Developer focusing in Mobile Applications and Web Based Applications.
 
-### 🚀 What I Do
+<!-- ### 🚀 What I Do
 
 **Full-Stack Development:** Proficient in both front-end and back-end technologies, I specialize in crafting end-to-end solutions that deliver seamless user experiences.
 
@@ -25,7 +26,7 @@ My name is Connor Van Etten and I am an Software Engineer based out of Cleveland
 
 **Research Assistant** @ [Cleveland State](https://www.trek10.com/): Overview of your current role and key projects.
 
-**Software Engineer** @ [Factivity](https://www.factivity.com/): Overview of your current role and key projects.
+**Software Engineer** @ [Factivity](https://www.factivity.com/): Overview of your current role and key projects. -->
 
 ### 🌐 Tech Stack
 
@@ -40,14 +41,14 @@ My name is Connor Van Etten and I am an Software Engineer based out of Cleveland
 **Operating Systems:**
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### 🛠️ Projects
+<!-- ### 🛠️ Projects
 
 Here are some highlights of projects I've worked on:
 
 [Project Name]
 
 Brief description and link to the repository or live demo.
-[Project Name]
+[Project Name] -->
 
 Brief description and link to the repository or live demo.
 
@@ -57,8 +58,8 @@ Bachelors Degree in Computer Science @ Cleveland State University : 2023.
 
 ### 📫 Let's Connect
 
-LinkedIn: [Your LinkedIn Profile]
-Twitter: [Your Twitter Handle]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crvanetten/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/crvanetten15)
 Portfolio: [Link to your portfolio or personal website]
 
 ### 🤝 Open to Collaboration
@@ -70,3 +71,6 @@ I'm always open to exciting new opportunities and collaborations. If you have an
 I'm currently working on learning more about GoLang and Docker, while I am studying to take my AWS Professional Certification.
 
 Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out. Let's build something amazing together! 🚀
+
+<!--
+https://shields.io/badges/static-badge -->
