@@ -59,8 +59,6 @@ Here are some highlights of projects I've worked on:
 Brief description and link to the repository or live demo.
 [Project Name] -->
 
-Brief description and link to the repository or live demo.
-
 ### 📚 Education
 
 Bachelors Degree in Computer Science @ Cleveland State University : 2023.
