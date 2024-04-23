@@ -4,7 +4,7 @@
 
 ## Welcome to my Github
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=crvanetten15)
+![Profile View Counter](https://komarev.com/ghpvc/?username=connor-ve)
 
 - I love using Visual Studio Code ❤️
 - GoLang is my current defualt language
