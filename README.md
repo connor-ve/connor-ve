@@ -11,4 +11,4 @@
 - Your terminal is not scary, its your friend!
 - I love automating, tinkering, tooling and optimising my workflow & diving into new technologies.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crvanetten15&layout=compact&border_radius=6&theme=synthwave&custom_title=Languages%20I%20Use)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connor-ve&layout=compact&border_radius=6&theme=synthwave&custom_title=Languages%20I%20Use)
