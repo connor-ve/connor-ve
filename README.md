@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30%" height="30%"/>
-</p>
+# Connor Van Etten
 
-## Welcome to my Github
+Software engineer in Cleveland, OH. I build manufacturing software at Factivity and write developer tools in Go and Rust on the side.
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=connor-ve)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connor-ve&layout=compact&border_radius=6&theme=synthwave&custom_title=Languages%20I%20Use)
+> Simplicity is prerequisite for reliability.
+>
+> — Edsger W. Dijkstra
